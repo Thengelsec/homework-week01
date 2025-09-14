@@ -24,5 +24,6 @@ abstract class Idol {
 }
 // implements 키워드를 사용해 추상 클래스를 구현하는 클래스
 class GirlGroup implements Idol {
+  final String name;
   
 }
