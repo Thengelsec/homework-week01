@@ -34,5 +34,5 @@ void main() {
   // sayMembersCount는 오버라이드하지 않았기 떄문에
   // 그대로 Idol 클래스의 메서드가 실행됩니다.
   // 부모 클래스의 메서드 사용
-  blackPink.sayMembersCount
+  blackPink.sayMembersCount();
 }
